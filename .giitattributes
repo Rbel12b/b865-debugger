@@ -1,0 +1,2 @@
+src/**/*.h linguist-language=C++
+lib/b865-debugger/*.h linguist-language=C++
