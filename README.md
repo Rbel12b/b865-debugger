@@ -45,4 +45,4 @@ create a [b865-project](https://github.com/Rbel12b/b865-project), run ```make```
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+See [LICENSE](LICENSE) for details.
